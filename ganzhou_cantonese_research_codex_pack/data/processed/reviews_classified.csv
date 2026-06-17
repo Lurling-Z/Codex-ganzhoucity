@@ -1,0 +1,9 @@
+﻿store_name,platform,review_text,review_time,rating_if_any,user_identity_hint,source_url_or_note,collected_at,notes,positive_keywords,negative_keywords,scene_keywords,cantonese_culture_keywords,sentiment
+味莊茶餐厅（阳明国际店）,Trip.com,是我喜欢的口味！粤式茶餐厅，在赣州开了蛮多家的，这家口味比较符合我的。墙裂推荐！,2021-07-08,5.0,viviennechau,https://hk.trip.com/restaurant/china/ganzhou/detail/restaurant-33641709,2026-06-17,公开可见评论片段；Trip.com提示部分评论可能经Google翻译。,推荐,,,,正向
+味莊茶餐厅（阳明国际店）,Trip.com,环境很好，地方可以，味道也还可以。,2021-05-03,5.0,申宸,https://hk.trip.com/restaurant/china/ganzhou/detail/restaurant-33641709,2026-06-17,公开可见评论片段；样本较少。,,,,,中性/公开样本不足
+香港油尖旺烧腊茶餐厅（九方）,途牛,港式风味的茶餐厅，丝袜奶茶的味道做的比较地道，还有烧腊快餐。,公开页面未显示,,公开片段用户未完整显示,https://www.tuniu.com/restaurant/3276017/,2026-06-17,公开可见点评片段；页面时间未完整显示。,,,,,中性/公开样本不足
+香港油尖旺烧腊茶餐厅（九方）,途牛,生意一直很好，如果不早点去的话，肯定要等位置；比较喜欢吃他家的荷包鸡。,公开页面未显示,,公开片段用户未完整显示,https://www.tuniu.com/restaurant/3276017/,2026-06-17,公开可见点评片段；不能据此判断长期复购规模。,,,,,中性/公开样本不足
+有意思港式茶餐厅（营角上店）,途牛,不是高峰期，人不是很多；粤菜味道还是不错，价格便宜，服务环境都挺好。,2017-03-10,5.0,6828017789,https://m.tuniu.com/restaurant/3295798/,2026-06-17,公开可见老点评片段；适合作为历史口碑线索。,,,,,中性/公开样本不足
+有意思港式茶餐厅（营角上店）,途牛,不用排队等待，听说这家的粤菜正宗好吃，服务很好，很热情干净卫生。,2017-03-03,4.0,6823301060,https://m.tuniu.com/restaurant/3295798/,2026-06-17,公开可见老点评片段；适合作为历史口碑线索。,正宗、好吃,,,,正向
+利苑港式茶餐厅/港式粤菜茶楼,途牛周边餐馆片段,价格非常便宜，性价比比较高，就餐环境非常不错，满意。,公开页面未显示,,公开片段用户未显示,https://m.tuniu.com/g3320110/around-restaurant/,2026-06-17,来自周边餐馆页面公开摘要；时间与上下文较弱，仅作低权重口碑线索。,,,,,中性/公开样本不足
+太极粤菜中餐厅,赣州格兰云天酒店站点公开点评片段,四楼的中餐厅味道强差人意，希望提高。,公开页面未显示,,公开片段用户未显示,https://ganzhou.grandskylightinternationalhotel.com/cn/,2026-06-17,酒店站点点评片段，可能指酒店中餐厅；只作为低权重负向线索。,,,,,中性/公开样本不足

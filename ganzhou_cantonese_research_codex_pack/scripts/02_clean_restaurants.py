@@ -16,11 +16,11 @@ def to_number(value):
     text = str(value).strip()
     if not text:
         return None
-    text = re.sub(r"[^\d.]", "", text)
-    if not text:
+    match = re.search(r"\d+(?:\.\d+)?", text)
+    if not match:
         return None
     try:
-        return float(text)
+        return float(match.group(0))
     except ValueError:
         return None
 
@@ -57,7 +57,7 @@ def infer_type(category, dishes):
         return "粤菜正餐/顺德菜"
     if any(k in text for k in ["肠粉", "云吞", "煲仔饭"]):
         return "粤式小吃/简餐"
-    return "其他/待人工确认"
+    return "其他/公开来源不足"
 
 def main():
     if not RAW.exists():

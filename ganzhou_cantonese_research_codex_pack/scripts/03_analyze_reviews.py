@@ -28,7 +28,7 @@ def classify_sentiment(text, pos_words, neg_words):
         return "负向"
     if pos and neg:
         return "混合"
-    return "中性/待人工确认"
+    return "中性/公开样本不足"
 
 def main():
     if not RAW.exists():
